@@ -56,6 +56,7 @@ find_package(catkin REQUIRED COMPONENTS
  add_service_files(
    FILES
    Recognition.srv
+   Command.srv
  )
 
 ## Generate actions in the 'action' folder
