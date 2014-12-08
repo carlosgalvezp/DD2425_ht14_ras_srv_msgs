@@ -51,6 +51,7 @@ find_package(catkin REQUIRED COMPONENTS
    FILES
    LaserLine.msg
    LaserScanner.msg
+   IRData.msg
  )
 
 ## Generate services in the 'srv' folder
