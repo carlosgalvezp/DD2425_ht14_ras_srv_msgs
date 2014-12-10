@@ -1,6 +1,6 @@
-float32 front_right
-float32 back_right
-float32 front_left
-float32 back_left
-float32 front
-float32 back
+float64 front_right
+float64 back_right
+float64 front_left
+float64 back_left
+float64 front
+float64 back
